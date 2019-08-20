@@ -5,5 +5,7 @@
 ![](https://lh5.googleusercontent.com/3RpU340a9ngkPIT9H4oj4R2MBKmzmED1KVTqSKxwlNjfczleu34wCHxwugz7icwvu-5WiBXQptljSA=w1960-h2890)
 ![](https://lh4.googleusercontent.com/cH2qShqc-WXMtgVKnBp1faX6pJpSwI6NuLvIkHJRojQYe_gs9qRRSGNJeDqS7LqyEnA1rRSJ-Hnr4g=w1960-h2890)
 
+[![asciicast](https://asciinema.org/a/113463.png)](https://player.vimeo.com/video/354860416)
+
 
 ![](<iframe src="https://player.vimeo.com/video/354860416" width="640" height="1131" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>)
